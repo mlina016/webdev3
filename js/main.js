@@ -2,7 +2,7 @@
 
 // initialize map
 var map = L.map("map", {
-    centr: [46.73, -92.107],
+    center: [46.73, -92.107],
     zoom: 11
 });
 
